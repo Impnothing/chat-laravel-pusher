@@ -1,0 +1,156 @@
+ {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ li {
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid white;
+}
+
+ li -body p {
+  margin: 0;
+  color: white;
+}
+
+.panel-body {
+  overflow-y: scroll;
+  height: 350px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #362B48;
+}
+
+#btnLogin{
+  border: 1px solid white;
+}
+
+.html{
+    background: black;
+}
+#myMain{
+  background:#464053;
+}
+#changeProfile{
+    background: -webkit-linear-gradient(left, #eb5c37, #ea5290);
+    background: -o-linear-gradient(right, #eb5c37, #ea5290);
+    background: -moz-linear-gradient(right, #eb5c37, #ea5290);
+    background: linear-gradient(to right, #eb5c37, #ea5290);
+    background-color: #eb5c37;
+    border: 2px solid white !important;
+}
+#name-profile{
+  margin-bottom: 40px;
+}
+input#usr {
+  background: #464053;
+  color: white;
+}
+button#btn-chat {
+  height: 37px;
+}
+.panel-heading {
+  background: -webkit-linear-gradient(left, #eb5c37, #ea5290);
+  background: -o-linear-gradient(right, #eb5c37, #ea5290);
+  background: -moz-linear-gradient(right, #eb5c37, #ea5290);
+  background: linear-gradient(to right, #eb5c37, #ea5290);
+  background-color: #eb5c37;
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+}
+.panel-body {
+  overflow-y: scroll;
+  height: 350px;
+  color: white;
+  border: 1px solid white;
+}
+#forgot-body{
+  background: #362B48;
+  color: white;
+}
+#forgot-button{
+  background: -webkit-linear-gradient(left, #eb5c37, #ea5290);
+  background: -o-linear-gradient(right, #eb5c37, #ea5290);
+  background: -moz-linear-gradient(right, #eb5c37, #ea5290);
+  background: linear-gradient(to right, #eb5c37, #ea5290);
+  background-color: #eb5c37;
+  border: 1px solid white;
+}
+#forgot-header{
+  background: -webkit-linear-gradient(left, #eb5c37, #ea5290);
+  background: -o-linear-gradient(right, #eb5c37, #ea5290);
+  background: -moz-linear-gradient(right, #eb5c37, #ea5290);
+  background: linear-gradient(to right, #eb5c37, #ea5290);
+  background-color: #eb5c37;
+  color: white;
+}
+#email{
+  background: #464053;
+  border: 1px solid white;
+}
+#li-login{
+  border: none !important;
+}
+#li-register{
+  border: none !important;
+}
+ul.chat {
+  margin-left: -39px;
+}
+#li-name{
+  border: none !important;
+}
+#data{
+  margin-bottom: 20px;
+}
+a#navbarDropdown {
+  margin-bottom: -16px;
+}
+a.nav-link.text-white {
+  margin-bottom: -16px;
+}
+
+.navbar-light .navbar-toggler-icon {
+  color: white;
+}
+#h1-name{
+  position: relative;
+  bottom: -33px;
+  left: 10%;
+}
+#user-img{
+  border: 5px solid white;
+  border-radius: 50%;
+}
+#edit-profile{
+  border-radius: 61%;
+  border: 1px solid white;
+}
+.btn-success:focus, .btn-success.focus {
+  -webkit-box-shadow: none !important; 
+  box-shadow: none !important; 
+}
+.btn-danger:focus, .btn-danger.focus {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
